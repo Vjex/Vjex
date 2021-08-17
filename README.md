@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vjex
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Unity(Game Development)
+- 🌱 I’m currently learning Unity(Game Development) and enhancing flutter skills
 - 📫 How to reach me ...
      Email : vishalverma5720@gmail.com
     
